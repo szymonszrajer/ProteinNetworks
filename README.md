@@ -47,6 +47,7 @@ Additionaly, an attempt to combine best model architectures for different inputs
 
 
 
+
 Bibliography:
 - Lopez-del Rio, A., Martin, M., Perera-Lluna, A. et al. Effect of sequence padding on the performance of deep learning models in archaeal protein functional prediction. Sci Rep 10, 14634 (2020). https://doi.org/10.1038/s41598-020-71450-8
 - Raj et al., J Proteomics Bioinform 2017, 10:12 DOI: 10.4172/jpb.1000459
