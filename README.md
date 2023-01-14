@@ -23,7 +23,7 @@ To set the final parameters of the networks and determine an optimal way to pad 
 
 Middle padding was chosen for the sequences provided as input data one.
 
-The result for above description (Dataset 1&2, three network architectures with 2 input types for two tasks)are as follows:
+The results for above description (Dataset 1&2, three network architectures with 2 input types for two tasks) are as follows:
 
 ![comparison](https://github.com/szymonszrajer/ProteinNetworks/blob/main/images/comparison.png "networks comparison")
 
