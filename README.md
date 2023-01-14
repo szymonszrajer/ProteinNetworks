@@ -37,16 +37,11 @@ Even though the tasks at hand are very similar, and the models architecture is t
 
 Additionaly, an attempt to combine best model architectures for different inputs was made:
 
+<img src="https://github.com/szymonszrajer/ProteinNetworks/blob/main/images/combine2.png" width="700" height="500">
 
-a
+Combining architectures predictions yielded a decline in Task1 preformance and an improvement in Task2 performance.
 
-
-
-
-
-
-
-
+When it comes to Dataset3, classifying location based on a sequence was unsuccessful, and assigning location based on physicochemical data was unsatisfactory ~60% accuracy for 3 class classification.
 
 Bibliography:
 - Lopez-del Rio, A., Martin, M., Perera-Lluna, A. et al. Effect of sequence padding on the performance of deep learning models in archaeal protein functional prediction. Sci Rep 10, 14634 (2020). https://doi.org/10.1038/s41598-020-71450-8
