@@ -1,6 +1,18 @@
 # ProteinNetworks
 
+In this project I compared different types of neural network architectures across different datasets. 
+The three architectures I implemented are:
 
+- FFNN with no convolution.
+- CNN with one layer of convolution.
+- CNN with five stacked layers of convolution.
+
+![comparison]( "networks comparison")
+
+
+
+
+Before testing performance of any model, an initial task was run in order to assess optimal way to pad sequence data.
 
 
 
