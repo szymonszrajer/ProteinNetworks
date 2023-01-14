@@ -33,7 +33,7 @@ The below table provides a small insight to the tendencies mentioned above:
 
 <img src="https://github.com/szymonszrajer/ProteinNetworks/blob/main/images/param.png" width="800" height="400">
 
-Even though the tasks at hand are very similar, and the models architecture is the same, the performance is much better for a smaller dataset, indicating that number of parameters could be increased.
+Even though the tasks at hand are very similar and the models architecture is the same, the performance is much better for a smaller dataset, indicating that number of parameters could be increased.
 
 Additionaly, an attempt to combine best model architectures for different inputs was made:
 
