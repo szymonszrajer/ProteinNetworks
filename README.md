@@ -38,7 +38,7 @@ Even though the tasks at hand are very similar, and the models architecture is t
 Additionaly, an attempt to combine best model architectures for different inputs was made:
 
 
-
+a
 
 
 
